@@ -66,12 +66,20 @@ Ejercicios 8
 
 Ejercicios 9
 ```
-
+ -particion en a: 0, positivo, negativo ----------------------------> (3)
+ -particion en a: 1, !=1                ----------------------------> (2)
+ -particion on a: donde "pequeño" encaja en long y "grande" no) ----> (2)
+ 
+ Se necesita 7 valores diferetes de a.
 ```
 
 Ejercicios 10
 ```
+ -particion en a: 0, positivo, negativo ----------------------------> (3)
+ -particion en b: 0, positive, negativo ----------------------------> (3)
+ -particion en a.multiply(b): 0, positivo, negativo ----------------> (3)
 
+ Son 9 casos de pruebas.
 ```
 
 
